@@ -1,5 +1,10 @@
 # Docker image for legacy Informatics expenses claimform program
 
+The docker image is pushed to
+<https://hub.docker.com/r/davidaspinall/claimform/>
+
+This README is in <https://github.com/DavidAspinall/claimform>.
+
 ## Usage
 
 Build with
