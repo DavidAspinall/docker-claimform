@@ -5,6 +5,8 @@ The docker image is pushed to
 
 This README is in <https://github.com/DavidAspinall/claimform>.
 
+The repo is now archived as sadly UoE now has a much more tedious expense claim process.
+
 ## Usage
 
 Build with
